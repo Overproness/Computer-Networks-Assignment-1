@@ -1,11 +1,4 @@
 
-
-https://github.com/user-attachments/assets/1c428e71-fd7f-4308-bcc1-09f9a9bf4133
-
-
-
-
-
 # Video File Transfer using TCP Sockets
 
 ## Description
