@@ -193,3 +193,7 @@ Copy code
 Requirements
 A Linux environment with GCC.
 Network access between the client and server machines (if run on separate devices).
+
+# Contributors
+- Muhammad Wasif Shakeel
+- Muhammad Muntazar
